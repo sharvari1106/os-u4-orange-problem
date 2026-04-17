@@ -6,67 +6,7 @@
 
 ---
 
-## Phase 1: Object Storage
 
-### Screenshot 1A – test_objects Output
-
-![Screenshot 1A](Screenshot 2026-04-17 210302.png)
-
-### Screenshot 1B – Object Store Structure
-
-![Screenshot 1B](Screenshot 2026-04-17 210322.png)
-
----
-
-## Phase 2: Tree Objects
-
-### Screenshot 2A – test_tree Output
-
-![Screenshot 2A](Screenshot 2026-04-17 210428.png)
-
-### Screenshot 2B – Raw Tree Object (xxd)
-
-![Screenshot 2B](Screenshot 2026-04-17 210730.png)
-
----
-
-## Phase 3: Index (Staging Area)
-
-### Screenshot 3A – pes init, add, and status
-
-![Screenshot 3A](Screenshot 2026-04-17 210811.png)
-
-### Screenshot 3B – .pes/index File
-
-![Screenshot 3B](Screenshot 2026-04-17 210832.png)
-
----
-
-## Phase 4: Commits and History
-
-### Screenshot 4A – pes log Output
-
-![Screenshot 4A](Screenshot 2026-04-17 210921.png)
-
-### Screenshot 4B – .pes Directory Structure
-
-![Screenshot 4B](Screenshot 2026-04-17 210946.png)
-
-### Screenshot 4C – HEAD and Branch Reference
-
-![Screenshot 4C](Screenshot 2026-04-17 211005.png)
-
----
-
-## Final Integration Test
-
-### Screenshot – make test-integration
-
-![Final Screenshot](Screenshot 2026-04-17 211045.png)
-
----
-
-## Analysis Answers
 
 ### Q5.1 – Checkout
 
